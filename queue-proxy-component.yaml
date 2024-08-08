@@ -8,7 +8,7 @@ metadata:
     - website
   links:
     - url: https://github.com/shukibakbuki/curamba
-    title: curamba
+    title: GitHub Repo
     icon: github
 spec:
   type: website
