@@ -8,6 +8,8 @@ metadata:
     - website
   links:
     - url: https://github.com/shukibakbuki/curamba
+    title: Github Repo
+    icon: github
 spec:
   type: Repository
   lifecycle: production
