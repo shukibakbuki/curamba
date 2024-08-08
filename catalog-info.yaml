@@ -13,4 +13,4 @@ spec:
   type: Repository
   lifecycle: production
   owner: team-b
-  system: podcast
+  system: artist-engagement-portal
