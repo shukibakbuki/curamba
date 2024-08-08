@@ -10,7 +10,7 @@ metadata:
     - url: https://github.com/shukibakbuki/curamba
     icon: github
 spec:
-  type: website
+  type: Repository
   lifecycle: production
   owner: team-b
   system: podcast
